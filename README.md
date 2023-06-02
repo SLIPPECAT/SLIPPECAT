@@ -9,7 +9,9 @@
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-007396?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elasticsearch-007396?style=flat-square&logo=Elasticsearch&logoColor=white"/>
-
 </p>
+#### DataBase
+  <img src="https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=MySQL&logoColor=white"/>
+#### Infra
+  <img src="https://img.shields.io/badge/EC2-007396?style=flat-square&logo=EC2&logoColor=white"/>
