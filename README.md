@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/Elasticsearch-007396?style=flat-square&logo=Elasticsearch&logoColor=white"/>
 </p>
 #### DataBase
+<p>
   <img src="https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=MySQL&logoColor=white"/>
+</p>
 #### Infra
+<p>
   <img src="https://img.shields.io/badge/EC2-007396?style=flat-square&logo=EC2&logoColor=white"/>
+</p>
