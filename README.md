@@ -5,12 +5,13 @@
 
 
 ### 💪 Skills
-#### Platforms & Languages
+#### Platforms & Languages ####
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-007396?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elasticsearch-007396?style=flat-square&logo=Elasticsearch&logoColor=white"/>
 </p>
+
 **DataBase**
 <p>
   <img src="https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=MySQL&logoColor=white"/>
