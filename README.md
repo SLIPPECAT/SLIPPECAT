@@ -17,6 +17,7 @@
 #### DataBase & Infra ####
 <p>
   <img src="https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-007396?style=flat-square&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/EC2-007396?style=flat-square&logo=EC2&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-007396?style=flat-square&logo=EC2&logoColor=white"/>
 </p>
