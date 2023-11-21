@@ -10,17 +10,18 @@
 #### Platforms & Languages ####
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-007396?style=flat-square&logo=C++&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-007396?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elasticsearch-007396?style=flat-square&logo=Elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solr-007396?style=flat-square&logo=Elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solr-007396?style=flat-square&logo=Solr&logoColor=white"/>
 </p>
 
 #### DataBase & Infra ####
 <p>
   <img src="https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-007396?style=flat-square&logo=MariaDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-007396?style=flat-square&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-007396?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/EC2-007396?style=flat-square&logo=EC2&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-007396?style=flat-square&logo=EC2&logoColor=white"/>
 </p>
