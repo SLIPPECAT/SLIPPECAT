@@ -11,7 +11,6 @@
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-007396?style=flat-square&logo=C++&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-007396?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elasticsearch-007396?style=flat-square&logo=Elasticsearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solr-007396?style=flat-square&logo=Solr&logoColor=white"/>
