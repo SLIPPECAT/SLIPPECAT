@@ -29,4 +29,4 @@
 > https://github.com/SLIPPECAT/SEARCH
 
 #### Library
-> https://github.com/SLIPPECAT/java-library
+> https://github.com/SLIPPECAT/STUDY_DIR/tree/main/LIBRARY/JAVA
