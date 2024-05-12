@@ -26,7 +26,7 @@
 </p>
 
 ### My Projects
-> [학교정보 검색서비스](SchoolSearchApplication)
+> [학교정보 검색서비스](https://github.com/SLIPPECAT/SchoolSearchApplication)
 
 #### About Search
 > https://github.com/SLIPPECAT/SEARCH
