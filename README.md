@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/GCP-007396?style=flat-square&logo=EC2&logoColor=white"/>
 </p>
 
+### My Projects
+> [학교정보 검색서비스](SchoolSearchApplication)
+
 #### About Search
 > https://github.com/SLIPPECAT/SEARCH
 
