@@ -10,7 +10,7 @@
 
 ## 🏐 Featured Project — 배구구 (Baegugu)
 
-> 배구인을 위한 커뮤니티 플랫폼
+> 배구를 더 편하게, 더 즐겁게 — 배구인을 위한 커뮤니티 플랫폼
 
 <p>
   <a href="https://baegugu.com"><img src="https://img.shields.io/badge/Web-baegugu.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
