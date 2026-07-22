@@ -53,15 +53,3 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
 
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SLIPPECAT&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLIPPECAT&layout=compact&count_private=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SLIPPECAT&theme=tokyonight&hide_border=true"/>
-</p>
