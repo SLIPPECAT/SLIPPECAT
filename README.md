@@ -53,3 +53,10 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
 
+<br>
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SLIPPECAT&theme=tokyonight&hide_border=true"/>
+</p>
